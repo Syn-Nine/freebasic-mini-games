@@ -116,9 +116,9 @@ sub draw_game_board()
         DrawText("Catfish Bouncer!", 20, 20, 20, TXT_COLOR)
         DrawText("fps: " + str(int( 1 / game_data.t_delta )), 20, 40, 20, TXT_COLOR)
         DrawText("clock: " + str(( timer - game_data.t_base )), 20, 60, 20, TXT_COLOR)
-        DrawCircle(XRES_HALF, YRES_HALF, 30, CAT_COLOR)
         
         ' draw cat
+        DrawCircle(XRES_HALF, YRES_HALF, 30, CAT_COLOR)
         dim w as single = 15
         dim h as single = 50
         DrawTriangle(vector2(XRES_HALF, YRES_HALF), vector2(XRES_HALF - w, YRES_HALF - h), vector2(XRES_HALF - w - w, YRES_HALF), CAT_COLOR)

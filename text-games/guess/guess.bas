@@ -23,18 +23,6 @@ end function
 
 
 ''-----------------------------------------------------------------------------
-declare function to_int overload (value as integer) as integer
-declare function to_int overload (value as double) as integer
-declare function to_int overload (value as string) as integer
-
-function to_int(value as integer) as integer
-	return value
-end function
-
-function to_int(value as double) as integer
-	return fix(value)
-end function
-
 function to_int(value as string) as integer
 	return valint(value)
 end function
