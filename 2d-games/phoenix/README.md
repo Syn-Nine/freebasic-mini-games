@@ -1,4 +1,4 @@
-# Dungeon of the Phoenix - by Daniel "Syn9" Kennedy
+# Dungeon of the Phoenix
 
 Released June 2025
 
@@ -15,11 +15,11 @@ Art by Syn9 with some icons from:
 https://dennisbusch-de.itch.io/0xdbs-gasp-8x8-1bpp-rpg-icons
 
 ### Screenshots:
-![](https://github.com/Syn-Nine/freebasic-mini-games/blob/main/2d-games/catfish/screenshots/intro.png)
+![](https://github.com/Syn-Nine/freebasic-mini-games/blob/main/2d-games/phoenix/screenshots/intro.png)
 
-![](https://github.com/Syn-Nine/freebasic-mini-games/blob/main/2d-games/catfish/screenshots/phoenix-6.gif)
+![](https://github.com/Syn-Nine/freebasic-mini-games/blob/main/2d-games/phoenix/screenshots/phoenix-6.gif)
 
-![](https://github.com/Syn-Nine/freebasic-mini-games/blob/main/2d-games/catfish/screenshots/shot-7.png)
+![](https://github.com/Syn-Nine/freebasic-mini-games/blob/main/2d-games/phoenix/screenshots/shot-7.png)
 
 
 ### Notes:
